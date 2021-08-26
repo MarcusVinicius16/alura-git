@@ -1,0 +1,29 @@
+[33mcommit 03ce87f65ad26a708b6d7922e62d80bb8467912b[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Vinicius <mv258272@gmail.com>
+Date:   Thu Aug 26 18:48:53 2021 -0300
+
+    atualizando titulo
+
+[33mcommit 06a943b4fcdb63ddc7334e552c596bf0e014d39b[m
+Author: Vinicius <mv258272@gmail.com>
+Date:   Thu Aug 26 18:45:44 2021 -0300
+
+    alterando titulo da pagina
+
+[33mcommit d2bb7bcfe6aeb6a5db29f8b3c990a48774d91aef[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Vinicius <mv258272@gmail.com>
+Date:   Mon Aug 16 20:47:49 2021 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 63a839ece5ffa5b51d75fb0565b66786f190d017[m
+Author: Vinicius <mv258272@gmail.com>
+Date:   Fri Aug 13 19:13:14 2021 -0300
+
+    adicionando acento no curso de integração Contínua
+
+[33mcommit f8e7b430f2cc35ee48266d3fc168aba53ad27dbd[m
+Author: Vinicius <mv258272@gmail.com>
+Date:   Fri Aug 13 19:03:35 2021 -0300
+
+    Criando arquivo index.html com lista de cursos
